@@ -1,0 +1,21 @@
+---
+title: TDD and Java
+subtitle: Simple build with Cucumber and some unit tests
+author:
+  - Frédéric Delorme
+date: 2021-04-29
+keywords: 
+  - java
+  - platform
+  - pattern
+  - TDD
+category: java, platform, TDD
+description: |
+  The purpose of this simplebuild project is to propose a java application |
+  implementing the TDD methodology to build a well tested application.
+lang: en-US
+cover-image: docs/images/covers/en-front.jpg
+css: docs/resources/css/pandoc_ebook-pub2.css
+header: [title]
+footer: SnapGames 2021 - [date] - [subtitle] [p]
+---
